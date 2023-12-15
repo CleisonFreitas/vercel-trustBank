@@ -11,7 +11,7 @@ export const BannerTrust = () => {
                 </ReactDiv>
             </ReactDiv>
             <figure className="h-full">
-                <img src={contextFile} className="h-[120px] md:h-full md:w-[200px] w-full" alt="exibition" />
+                <img src={contextFile} className="h-[100px] md:rotate-90 md:h-full md:w-[300px] w-full" alt="exibition" />
             </figure>
         </ReactDiv>
     )
